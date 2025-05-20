@@ -1,4 +1,4 @@
-package com.shanaga.solid.srp;
+package com.shanaga.solid.srp.solution;
 
 public class LoanService {
     public void getLoanInterestInfo(String loanType) {
